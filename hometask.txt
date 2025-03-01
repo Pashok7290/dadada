@@ -1,0 +1,11 @@
+В файле 'README' ветки 'master' и удаленной ветки 'demo' первые строки различаются.
+
+В удаленном репозитории 8 коммитов:
+    init
+    README added
+    fix readme
+    boots
+    dots
+    heat added
+    Merge branch 'boots' into release
+    Merge branch 'buttons' into demo
